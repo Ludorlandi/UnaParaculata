@@ -1,0 +1,2049 @@
+fileFormatVersion: 2
+guid: 31fc2c7235e927540a5d7970dc39cd13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11772
+        width: 738
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d6ca1a45366f641b25fded5d049767
+      internalID: 1456382753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 11772
+        width: 781
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f94731041b8e4b984c475f151f06a
+      internalID: 1980562348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_2
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 11772
+        width: 812
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d44e6332ddf834fa4a5a24e80a630d
+      internalID: -1534888833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_3
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 11772
+        width: 817
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13524c9f197600f41a9206481a2dd432
+      internalID: -1209697512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_4
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 11772
+        width: 812
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7eb75e03d4b7f46a1407573927da23
+      internalID: -1073773237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11040
+        width: 812
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae413c060cf5d48996b4cc4e334465
+      internalID: 467392247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 11040
+        width: 817
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe183775a0bd624da0d87663b83c2dc
+      internalID: 27880460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_7
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 11040
+        width: 800
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7e1eb0598eb8458f7a301a3c95fd7
+      internalID: 432564571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_8
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 11040
+        width: 793
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e69c72800595e147979b3a8558a0867
+      internalID: 1945581275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_9
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 11040
+        width: 812
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32986f9f72de6d04786b76bc814b6ff5
+      internalID: -545089629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 10302
+        width: 769
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c3564d0f55634fab12ed2eb1d5c4f
+      internalID: 1874827814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 10302
+        width: 817
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f20a4987bc154ab1908e12ac74d0c
+      internalID: -331187178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_12
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 10302
+        width: 806
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f9df6e1170fc41b5c66ca7866890c
+      internalID: -1380103138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_13
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 10302
+        width: 751
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccab6955695fe44886d87a89f77a31
+      internalID: -1460857525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_14
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 10302
+        width: 812
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496d9d2bfa122a4280d578d838e4574
+      internalID: -2103846141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9570
+        width: 812
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d254274ff3fc34795ed22a8522d124
+      internalID: -1477930215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 9570
+        width: 738
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a2108e4707ae34bb0677e3183f3181
+      internalID: -689665314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_17
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 9570
+        width: 812
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229a4ee2148635489e4309f9add0a6f
+      internalID: 1651829660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_18
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 9570
+        width: 817
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db511ec579cd934a8f7131296405fa0
+      internalID: -556628743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_19
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 9570
+        width: 812
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46d462cb3276b94da5131fe6247aad2
+      internalID: -74389166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8831
+        width: 812
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8b48a547d7094ca708e1e6198ee7b
+      internalID: -1469877882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_21
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 8831
+        width: 817
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cdac8fb7759894381012826d7d948a
+      internalID: 1960758295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_22
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 8831
+        width: 806
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1164bb0139d79942b05ed484c6d1717
+      internalID: 1935870486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_23
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 8831
+        width: 793
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe711b6d14f394482079f89c42edf3
+      internalID: 533599303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_24
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 8831
+        width: 812
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fe28fce85721478a88222942ef61e
+      internalID: -1653939864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8099
+        width: 812
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58d1ba064895eb4c81bdffdcfd87ee7
+      internalID: 1813424143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_26
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 8099
+        width: 762
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8f36429599f646b807bf38e12a1a8
+      internalID: -1786630397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_27
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 8099
+        width: 812
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add8b6113da84db43a10f7c3e4ce2b53
+      internalID: -714364328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_28
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 8099
+        width: 793
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04bce4f5abebb4c86da90157fa3405
+      internalID: -839846840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_29
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 8099
+        width: 812
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea191a5ed1eef84d9c490131ca28edf
+      internalID: 1200246970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7361
+        width: 812
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b76e3c4a7e47042898b98821ff6648
+      internalID: -1838260610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_31
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 7361
+        width: 799
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced10823be79d054dafbdd8d8cf492b4
+      internalID: 61412230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_32
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 7361
+        width: 800
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671151051f0b5442af33914791993fe
+      internalID: -1884544653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_33
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 7361
+        width: 817
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859aa3f836838ed4997f9409c8578782
+      internalID: -71979006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_34
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 7361
+        width: 812
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387ca7e7949c5114bb0b30f5d6ab4185
+      internalID: 582935716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6629
+        width: 812
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32e277b0a320b4194a44382f09ff91
+      internalID: 857991939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_36
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 6629
+        width: 817
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7a213743394441b3ba83aa809dfb2
+      internalID: -1702528908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_37
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 6629
+        width: 803
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee55eb955e7158340b7b236f1fe68a24
+      internalID: 2113399626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_38
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 6629
+        width: 817
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48538742169e2784d92060c82d82c280
+      internalID: -854511474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_39
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 6629
+        width: 800
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae795ec779d6ff045810ad4bc5248637
+      internalID: 595137592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5891
+        width: 812
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712dda2ce338e24eb6c1779b13489ee
+      internalID: 210397916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5891
+        width: 817
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d808a474be5c4f97eff65cdb5b11b
+      internalID: -80791494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_42
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 5891
+        width: 812
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741ffb56045ef140833aff816e84cee
+      internalID: 1102434752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_43
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 5891
+        width: 799
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa74ed954d61b41920fe54e35fff69
+      internalID: 1789974072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_44
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 5891
+        width: 816
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf082792858f64fb4483328092d5b5
+      internalID: 768522802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5158
+        width: 812
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7348a236ad661b341839309e0c81f60e
+      internalID: 920700524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5158
+        width: 805
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b8974a8d6e8254eb5b1a55ee192e21
+      internalID: -1229125184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_47
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 5158
+        width: 812
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c6f5778a40f1438ea7acfcfd37f24
+      internalID: -1108139018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_48
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 5158
+        width: 817
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e994d59e5957408b6f510cbae88f4
+      internalID: -1778765632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_49
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 5158
+        width: 782
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc5280878b61e94bae63f8be1a36180
+      internalID: 2051581315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4420
+        width: 775
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1c6d39e174f748a113611eb810d3e
+      internalID: -1240892325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_51
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4420
+        width: 817
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b9781459ebafb40a50da7de877f9dd
+      internalID: 310780430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_52
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 4420
+        width: 794
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2d622fcf94064ba54b790c5609048
+      internalID: 729860218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_53
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 4420
+        width: 817
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01a7bf8632656418302cd897c37919
+      internalID: 984111094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_54
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 4420
+        width: 812
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ab38d98e884747b39467a0136428b
+      internalID: -1227834467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3688
+        width: 812
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b245c202cd9e44b566d5e1ba5beed
+      internalID: 1210401870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_56
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3688
+        width: 817
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa0da6427a3a76428a694228ae9ca25
+      internalID: -257505483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_57
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 3688
+        width: 812
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1803251a653754ba97d808ed6b7296
+      internalID: -1985756596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_58
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 3688
+        width: 817
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791c063ea98ffe43a0a0f86c933f0d6
+      internalID: 1587810813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_59
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 3688
+        width: 763
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd722078d5c8c044b6a891be689d968
+      internalID: -1946420751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2950
+        width: 812
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b61e98b81a16458bf3959acba383f
+      internalID: 596092902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_61
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2950
+        width: 817
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f905aab1e3aca849aee5d13211f1832
+      internalID: -1713552416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_62
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 2950
+        width: 812
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30801f56f7e3f40bfdc2539144e1b3
+      internalID: 1084565028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_63
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 2950
+        width: 817
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc22a937bef6b84d8ada056de8cb5e2
+      internalID: -930520430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_64
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 2950
+        width: 806
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a7c950ca43c64c8d853da3d88ced4
+      internalID: -742226775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2218
+        width: 812
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9c6f906cc4ed4eb73f4c41a4ce8b2
+      internalID: -1586270327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_66
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2218
+        width: 817
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea119aed23467c41a61565afb8d66a2
+      internalID: -702135680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_67
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2218
+        width: 794
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0247c0858d0b1ac44a5558fe2f46ad58
+      internalID: -1144849026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_68
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 2218
+        width: 817
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7242d7ccdb5a4b99bfed7c19801db
+      internalID: -1225185300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_69
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 2218
+        width: 812
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d918a532357b0e4d8d20f00163a86c6
+      internalID: 1036009642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1480
+        width: 714
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8541a332778be94d907a675c3d0614c
+      internalID: 1192953139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_71
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1480
+        width: 817
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f305f4879b24ee74f9cbbe6fa545366f
+      internalID: 510306979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_72
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1480
+        width: 812
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b5e59ce5dbd74cb1fa79291cb5ae5
+      internalID: 694660469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_73
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1480
+        width: 751
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1ace3d0f5d184cbaec7b5b84e6fea
+      internalID: 2070043287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_74
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1480
+        width: 750
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777434ccac33fb47aa8ac3ea1bda606
+      internalID: -2076020625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 747
+        width: 812
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5eef543afe64c4b8a0a93ac1846bfe
+      internalID: -2091020165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_76
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 747
+        width: 762
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb93a19acfe7a48a4c4bd703ce5596
+      internalID: 494616421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_77
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 747
+        width: 800
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e662546209ed4988c4ecfc817e00f
+      internalID: 995808107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_78
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 747
+        width: 817
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a035db3d1e23c044b379ba2ed16c9d8
+      internalID: 934165446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_79
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 747
+        width: 732
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11b6a251742e74fbcd435411faab5b
+      internalID: 551217250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 812
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36337ce69b6754ab3e3752783b13be
+      internalID: 1171552535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_81
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 15
+        width: 817
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1e7997ad598f148a5812de9524e67a
+      internalID: 70201326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_82
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 15
+        width: 812
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b292a8b026781674aa3a622293403d68
+      internalID: -735872546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Zanzacottero_83
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 15
+        width: 817
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd84eb9b1c752489071309ef2b0551
+      internalID: -934215795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b9a795259a04ad4c98cf60fe20ef6e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet Zanzacottero_0: 1456382753
+      Spritesheet Zanzacottero_1: 1980562348
+      Spritesheet Zanzacottero_10: 1874827814
+      Spritesheet Zanzacottero_11: -331187178
+      Spritesheet Zanzacottero_12: -1380103138
+      Spritesheet Zanzacottero_13: -1460857525
+      Spritesheet Zanzacottero_14: -2103846141
+      Spritesheet Zanzacottero_15: -1477930215
+      Spritesheet Zanzacottero_16: -689665314
+      Spritesheet Zanzacottero_17: 1651829660
+      Spritesheet Zanzacottero_18: -556628743
+      Spritesheet Zanzacottero_19: -74389166
+      Spritesheet Zanzacottero_2: -1534888833
+      Spritesheet Zanzacottero_20: -1469877882
+      Spritesheet Zanzacottero_21: 1960758295
+      Spritesheet Zanzacottero_22: 1935870486
+      Spritesheet Zanzacottero_23: 533599303
+      Spritesheet Zanzacottero_24: -1653939864
+      Spritesheet Zanzacottero_25: 1813424143
+      Spritesheet Zanzacottero_26: -1786630397
+      Spritesheet Zanzacottero_27: -714364328
+      Spritesheet Zanzacottero_28: -839846840
+      Spritesheet Zanzacottero_29: 1200246970
+      Spritesheet Zanzacottero_3: -1209697512
+      Spritesheet Zanzacottero_30: -1838260610
+      Spritesheet Zanzacottero_31: 61412230
+      Spritesheet Zanzacottero_32: -1884544653
+      Spritesheet Zanzacottero_33: -71979006
+      Spritesheet Zanzacottero_34: 582935716
+      Spritesheet Zanzacottero_35: 857991939
+      Spritesheet Zanzacottero_36: -1702528908
+      Spritesheet Zanzacottero_37: 2113399626
+      Spritesheet Zanzacottero_38: -854511474
+      Spritesheet Zanzacottero_39: 595137592
+      Spritesheet Zanzacottero_4: -1073773237
+      Spritesheet Zanzacottero_40: 210397916
+      Spritesheet Zanzacottero_41: -80791494
+      Spritesheet Zanzacottero_42: 1102434752
+      Spritesheet Zanzacottero_43: 1789974072
+      Spritesheet Zanzacottero_44: 768522802
+      Spritesheet Zanzacottero_45: 920700524
+      Spritesheet Zanzacottero_46: -1229125184
+      Spritesheet Zanzacottero_47: -1108139018
+      Spritesheet Zanzacottero_48: -1778765632
+      Spritesheet Zanzacottero_49: 2051581315
+      Spritesheet Zanzacottero_5: 467392247
+      Spritesheet Zanzacottero_50: -1240892325
+      Spritesheet Zanzacottero_51: 310780430
+      Spritesheet Zanzacottero_52: 729860218
+      Spritesheet Zanzacottero_53: 984111094
+      Spritesheet Zanzacottero_54: -1227834467
+      Spritesheet Zanzacottero_55: 1210401870
+      Spritesheet Zanzacottero_56: -257505483
+      Spritesheet Zanzacottero_57: -1985756596
+      Spritesheet Zanzacottero_58: 1587810813
+      Spritesheet Zanzacottero_59: -1946420751
+      Spritesheet Zanzacottero_6: 27880460
+      Spritesheet Zanzacottero_60: 596092902
+      Spritesheet Zanzacottero_61: -1713552416
+      Spritesheet Zanzacottero_62: 1084565028
+      Spritesheet Zanzacottero_63: -930520430
+      Spritesheet Zanzacottero_64: -742226775
+      Spritesheet Zanzacottero_65: -1586270327
+      Spritesheet Zanzacottero_66: -702135680
+      Spritesheet Zanzacottero_67: -1144849026
+      Spritesheet Zanzacottero_68: -1225185300
+      Spritesheet Zanzacottero_69: 1036009642
+      Spritesheet Zanzacottero_7: 432564571
+      Spritesheet Zanzacottero_70: 1192953139
+      Spritesheet Zanzacottero_71: 510306979
+      Spritesheet Zanzacottero_72: 694660469
+      Spritesheet Zanzacottero_73: 2070043287
+      Spritesheet Zanzacottero_74: -2076020625
+      Spritesheet Zanzacottero_75: -2091020165
+      Spritesheet Zanzacottero_76: 494616421
+      Spritesheet Zanzacottero_77: 995808107
+      Spritesheet Zanzacottero_78: 934165446
+      Spritesheet Zanzacottero_79: 551217250
+      Spritesheet Zanzacottero_8: 1945581275
+      Spritesheet Zanzacottero_80: 1171552535
+      Spritesheet Zanzacottero_81: 70201326
+      Spritesheet Zanzacottero_82: -735872546
+      Spritesheet Zanzacottero_83: -934215795
+      Spritesheet Zanzacottero_9: -545089629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
