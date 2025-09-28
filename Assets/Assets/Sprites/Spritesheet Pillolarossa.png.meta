@@ -1,0 +1,2992 @@
+fileFormatVersion: 2
+guid: 366e5f737617e3844b6875c8eb02d43c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7599
+        width: 365
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835b87339b7bead459f93c21142b05f9
+      internalID: -927729703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 7599
+        width: 365
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d2261a877e42648b1102d78b931e7a
+      internalID: 990875416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 7599
+        width: 360
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6679db7c70c2c409c3a98b445d1693
+      internalID: 935293585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_3
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 7599
+        width: 293
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22bb3714e7db5145bdd50550d273a9b
+      internalID: -732749895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_4
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 7599
+        width: 298
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d1b1819e6cbf0449cf970ce5dcfa22
+      internalID: 347397968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7481
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf95ba7567ffea44b2d7fd7f4bf3a86
+      internalID: 708993959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7477
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f574b622f9ff46b0b8fd524a89130
+      internalID: 629447598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7477
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0ac6bf44794a468898c755e63baef
+      internalID: 970027121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_8
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 7477
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac02f68eca68c2241866f0a7fc2c3582
+      internalID: 2095703780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 7477
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8623506c0f45db4598bc0c07858d848
+      internalID: 1140475526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 7477
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dee37d2e1311842b2ed4df43d7bb58
+      internalID: -600315578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 7477
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a3f09ad4916b746a5ebc8f061007b7
+      internalID: 1874275916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_12
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 7477
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7d3608b4efe14791dd7a71535aa9d
+      internalID: -1274619192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_13
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 7477
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4374a2fa0d75b42a925f58e6f7ffc1
+      internalID: -35994053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_14
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 7477
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3533c4524b20cc64fb3fab583611e1c0
+      internalID: 906150491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_15
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 7477
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e7a7c79a649a4f9a45003ea6a9091
+      internalID: -255152529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_16
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 7477
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57e0810ec64994691b4de747871fe1
+      internalID: 1693865074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_17
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 7477
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988201ebaf7589344a199aed77840255
+      internalID: 528199884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7022
+        width: 365
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d14f989dc6c5249b971338792b3051
+      internalID: -1893739380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7026
+        width: 373
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41c886f56aa74438b9d1fde8af21cb
+      internalID: 1525876384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 7022
+        width: 369
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d68b7402892be4e8846a7d282d02f9
+      internalID: -429945534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_21
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 7026
+        width: 373
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc8a49f025d3e44a34f0bcfae8f855
+      internalID: 636814445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_22
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 7022
+        width: 369
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c419163b4e410e43a01ae5800a60b8d
+      internalID: -799855916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6904
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0c3cb962e32b4eb5ec6f0f40665b3
+      internalID: 1603660870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6904
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9361b68a049d620438b3d9fc6e7538e3
+      internalID: 1109135004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 6904
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a977512a3d9f1b546b5d9fd04d1e239c
+      internalID: -579043669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6904
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044949dbb3fc1bb4981227d0febca7d7
+      internalID: -1382005423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_27
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 6904
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551936dd02abce6448c5166b4f7256e2
+      internalID: -622538607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_28
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 6904
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14429bb3154fbb84c90401f29634b929
+      internalID: -1215785511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_29
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 6904
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6d1e0f56a3814194a67d03348eac8
+      internalID: 1091468538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_30
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 6904
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7586db44291a814193353ad000d556c
+      internalID: -445753226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6904
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5d2fed1a2cab04ba755f2b1b7b442e
+      internalID: 204167776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_32
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 6904
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416bffa2be1b58645a022dc48c5e55cc
+      internalID: -2123621754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_33
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 6904
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ece06d21330f42a79141e2db816e1
+      internalID: -629340089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_34
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 6904
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e91d7f91cd14a4fac60d812779e32e
+      internalID: 1973285490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_35
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 6904
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518607afe2e397549bdf052ba9a42d30
+      internalID: 567795608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6904
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2d7caa52fb7940baeba9bf644e026
+      internalID: -1319118365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6449
+        width: 369
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae29445ef27c4fe46b9cf364185f20a7
+      internalID: -1411999278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6449
+        width: 365
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cdf8956c0178438fac1fc6b115053
+      internalID: 1415107435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_39
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 6449
+        width: 365
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6b049bdf557e94f839a1d0c9a73f8c
+      internalID: -1661622586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_40
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 6449
+        width: 365
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ca5daa386bf04181a66da0012c064
+      internalID: 1639540426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_41
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 6461
+        width: 365
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cc133a95843714bb9b226f6f8416d0
+      internalID: -958592377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6331
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03caa80c218eb43861a115dc177b09
+      internalID: -1709728638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6331
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481e55bdbe07664f857b522233ca002
+      internalID: -625939489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6331
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fddc2fedeb2e4478085fc279d3d1c6
+      internalID: -1686786085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 6331
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd6d5948798a64a84537a51b6a86db
+      internalID: 1330699937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_46
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6331
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc722b61aa5a284428f415182f700a9a
+      internalID: -1092449986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_47
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 6331
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c749a7817dfb4c8d6aea708d594a3
+      internalID: 1895259964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_48
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 6331
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb8ca4230bbe44aba3bf5552ab21c6
+      internalID: -142086069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_49
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 6331
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa76a419c911044b70fe7b57c82743
+      internalID: 1706364981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_50
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 6331
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767afe60a2e56ec44bbdd63fcd2f89ee
+      internalID: -41412855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_51
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 6331
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe49a336fb94b04781261db4b3bacde
+      internalID: 1449292730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6331
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d2e46f9185ae47aeaa97179be6164
+      internalID: -98683640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_53
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 6331
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb69526ebecb9046ba87a6ac3815976
+      internalID: -1345558173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_54
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 6331
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e084e6d530d4d4485d1d22c51be630
+      internalID: 198086525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5892
+        width: 357
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77acc772a753abc45b2b807b3737024b
+      internalID: -558744293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5907
+        width: 342
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a5eb37a11c0664589a962ca4349cf2
+      internalID: -418488581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_57
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5915
+        width: 325
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929441fec94c0e64391d6a57a8013336
+      internalID: 1168951972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_58
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 5935
+        width: 306
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393327ff9d345c49b059952e967b28a
+      internalID: -1000487787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_59
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 5943
+        width: 326
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e21317d393274cbde2c6b8d55a675
+      internalID: -728500185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5756
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1977fa5a4f40d9d41bc91bd364406e64
+      internalID: -1542186606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5755
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf265734367a774ca44cacda4fd65ba
+      internalID: 2062303936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5758
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b609fe4149b40d4b82697f7885b408a
+      internalID: -320579926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5758
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496f71620da82184da04b5d80746a083
+      internalID: -1400311771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_64
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 5758
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50571bfcd25cb458595a2131b495c3
+      internalID: -1388250200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_65
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 5759
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f3d64994c4ac47b4f1a7d3fc0a489
+      internalID: -1243533370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_66
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 5758
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d95ffccf5f7004c9025e4934f3d834
+      internalID: -344698118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_67
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 5758
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac2d4a0b160748498b6c63556bcc76a
+      internalID: 461455385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5389
+        width: 345
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b212a9b4a26d25640a5702d5a4d54597
+      internalID: -503171161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_69
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 5397
+        width: 353
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a686574c6a0941bb72d860a767eb5
+      internalID: 1357229377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_70
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 5405
+        width: 360
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbd675a29356945b91c3b89ff2e748
+      internalID: -1652651595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_71
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 5409
+        width: 369
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ed2a9c9a732e4da54e739e169020d
+      internalID: -1440810080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_72
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 5413
+        width: 369
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e60d3594255304ab022af6be22bd96
+      internalID: -774802278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_73
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 5185
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9023e2198b3d3c499258c53f368dd8f
+      internalID: 1446301169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_74
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 5185
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469301978ba9574187b9383704ba465
+      internalID: 1552912637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4828
+        width: 365
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa920001117b644b99a1f9005d47938
+      internalID: 1432394577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_76
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4809
+        width: 380
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2945439e82ed478eafe85a18e6a6c
+      internalID: 2116527670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_77
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 4773
+        width: 377
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4730bbb4d80241aaf436f03bae677
+      internalID: -126060931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_78
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 4754
+        width: 365
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006098c533a2e1a4b93dfd202680082a
+      internalID: -219823746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_79
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 4734
+        width: 368
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8dabcbe402da64690efede2679d205
+      internalID: 1709830226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4149
+        width: 381
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec5aa23a0e03044b6633568ac3ec6a
+      internalID: -549994442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4134
+        width: 381
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd93c0721047d40ac2fe10e8d30f5c
+      internalID: -1087702799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_82
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 4122
+        width: 377
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f0a8546c57c34faea743317ac651d
+      internalID: -1454382537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_83
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 4110
+        width: 377
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac40dc6b9e274140add532fec4e8cfb
+      internalID: -100838072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_84
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 4083
+        width: 376
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769e68e6fcd5714185879178274a49d
+      internalID: 281918476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_85
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 4032
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3a8665f4ffa342a4b2b54d3bf989d
+      internalID: -767377746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_86
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4036
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a559bccf053c4da6389bea0240cfe
+      internalID: 1967924833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 4032
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0da20d5ebc023d4a92e664cc2eff849
+      internalID: 345928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_88
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3490
+        width: 377
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cbf133c6adb664f99a75a7b60fd2f8
+      internalID: 747010297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3451
+        width: 338
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da3124b134b17a49ac69e5b6ec12e8b
+      internalID: 680811987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_90
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3448
+        width: 291
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d32b2269e64e7429b626cba3e52f11
+      internalID: 1847105012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_91
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3467
+        width: 372
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52e8d03e93453b4e935ec0c0e525ef1
+      internalID: 1592131578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_92
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 3494
+        width: 361
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be2f129f5d91f49abe531d84897fc7
+      internalID: 1447894369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2933
+        width: 333
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7ef46ec9b72642983ab98fece99da
+      internalID: 657385984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_94
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2930
+        width: 357
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060066eabc286b4a8205ead357dad58
+      internalID: -1495830581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_95
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2921
+        width: 357
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be653b1cc5b62f44d976f928a3575db6
+      internalID: -364036040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_96
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2894
+        width: 357
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cccd992b73688b43a44c659adc48a23
+      internalID: 263934326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_97
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2874
+        width: 354
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbf88a65dc3a4439f432d93d71b4b3
+      internalID: 1225243520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_98
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2301
+        width: 326
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e85dce61781d9489d8efc58e43b6af
+      internalID: -612676906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_99
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2301
+        width: 318
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7361f15214994e8828da58c0e2dc6
+      internalID: 1532941939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_100
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2301
+        width: 302
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c8c8f99b54264785524033c219589
+      internalID: 1701841005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_101
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2301
+        width: 310
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0275e207fd80d140bfed48de4746fa0
+      internalID: 1234332055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_102
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2301
+        width: 365
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89eaa74b79d1f74280638ec1f75e75c
+      internalID: 211625055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_103
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1736
+        width: 373
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c0a2d4adb34248a49c26e9563fc73
+      internalID: -902319654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_104
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1799
+        width: 392
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de92e62e72bdb439fb782a170c193d
+      internalID: -1683861505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_105
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1815
+        width: 392
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cba34c0ab79b34790989764d924a50
+      internalID: 1853794059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_106
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1827
+        width: 381
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8448e616ef8df74c85190cb2db19758
+      internalID: 330746459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_107
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1823
+        width: 350
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcce589fbec2134a983ec609a7d6589
+      internalID: 674982048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1242
+        width: 329
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc02d630b302c45b22fb1b6ac0bb93
+      internalID: 765165374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1167
+        width: 342
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ace5988f4bc1848a14e48752ce685a
+      internalID: 1212555885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_110
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1160
+        width: 396
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c1fb054bf17646ada675bcd44acec
+      internalID: -722550251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_111
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1156
+        width: 334
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb689461896ba647b3aeacb249821a5
+      internalID: -731866529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_112
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1152
+        width: 314
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48fd75455b52347a6d0e7cfcaaa426
+      internalID: -1855312089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 579
+        width: 298
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9a574a99945940999019f01766c57
+      internalID: 634047248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_114
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 579
+        width: 282
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5947a039f121499b574960bdb376a
+      internalID: -617074170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_115
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 579
+        width: 239
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9bfefcae2cc2438971e18c928bef6
+      internalID: 859977540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_116
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 579
+        width: 361
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b9bcae9380504bb4359bdf82e8750
+      internalID: -1501512855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_117
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 579
+        width: 349
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706cf0ffe9977349b41149bbe5182a6
+      internalID: 602082722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_118
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 88
+        width: 365
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f45173f3cb1854cb7ed3ce44cb60f4
+      internalID: -1278952613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_119
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 135
+        width: 365
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104a610d098d614f8164c032c8f50b4
+      internalID: 1022518200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_120
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 145
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ea737e29f8de479702d90a50dc837
+      internalID: -540542988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_121
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 14
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2e4430b6105242a8728a2d1cfed83
+      internalID: 427593406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_122
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 15
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d884f83a780a9e4d85701cecde9dc4e
+      internalID: 885931874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_123
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59006611fd0a034f83177e1d1ee4790
+      internalID: -1873640157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Pillolarossa_124
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 18
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470d6a23f0938c46b4e0b42529acdd3
+      internalID: 422133474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f8afeeb19ed7ae548b8e737b3fcf8636
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet Pillolarossa_0: -927729703
+      Spritesheet Pillolarossa_1: 990875416
+      Spritesheet Pillolarossa_10: -600315578
+      Spritesheet Pillolarossa_100: 1701841005
+      Spritesheet Pillolarossa_101: 1234332055
+      Spritesheet Pillolarossa_102: 211625055
+      Spritesheet Pillolarossa_103: -902319654
+      Spritesheet Pillolarossa_104: -1683861505
+      Spritesheet Pillolarossa_105: 1853794059
+      Spritesheet Pillolarossa_106: 330746459
+      Spritesheet Pillolarossa_107: 674982048
+      Spritesheet Pillolarossa_108: 765165374
+      Spritesheet Pillolarossa_109: 1212555885
+      Spritesheet Pillolarossa_11: 1874275916
+      Spritesheet Pillolarossa_110: -722550251
+      Spritesheet Pillolarossa_111: -731866529
+      Spritesheet Pillolarossa_112: -1855312089
+      Spritesheet Pillolarossa_113: 634047248
+      Spritesheet Pillolarossa_114: -617074170
+      Spritesheet Pillolarossa_115: 859977540
+      Spritesheet Pillolarossa_116: -1501512855
+      Spritesheet Pillolarossa_117: 602082722
+      Spritesheet Pillolarossa_118: -1278952613
+      Spritesheet Pillolarossa_119: 1022518200
+      Spritesheet Pillolarossa_12: -1274619192
+      Spritesheet Pillolarossa_120: -540542988
+      Spritesheet Pillolarossa_121: 427593406
+      Spritesheet Pillolarossa_122: 885931874
+      Spritesheet Pillolarossa_123: -1873640157
+      Spritesheet Pillolarossa_124: 422133474
+      Spritesheet Pillolarossa_13: -35994053
+      Spritesheet Pillolarossa_14: 906150491
+      Spritesheet Pillolarossa_15: -255152529
+      Spritesheet Pillolarossa_16: 1693865074
+      Spritesheet Pillolarossa_17: 528199884
+      Spritesheet Pillolarossa_18: -1893739380
+      Spritesheet Pillolarossa_19: 1525876384
+      Spritesheet Pillolarossa_2: 935293585
+      Spritesheet Pillolarossa_20: -429945534
+      Spritesheet Pillolarossa_21: 636814445
+      Spritesheet Pillolarossa_22: -799855916
+      Spritesheet Pillolarossa_23: 1603660870
+      Spritesheet Pillolarossa_24: 1109135004
+      Spritesheet Pillolarossa_25: -579043669
+      Spritesheet Pillolarossa_26: -1382005423
+      Spritesheet Pillolarossa_27: -622538607
+      Spritesheet Pillolarossa_28: -1215785511
+      Spritesheet Pillolarossa_29: 1091468538
+      Spritesheet Pillolarossa_3: -732749895
+      Spritesheet Pillolarossa_30: -445753226
+      Spritesheet Pillolarossa_31: 204167776
+      Spritesheet Pillolarossa_32: -2123621754
+      Spritesheet Pillolarossa_33: -629340089
+      Spritesheet Pillolarossa_34: 1973285490
+      Spritesheet Pillolarossa_35: 567795608
+      Spritesheet Pillolarossa_36: -1319118365
+      Spritesheet Pillolarossa_37: -1411999278
+      Spritesheet Pillolarossa_38: 1415107435
+      Spritesheet Pillolarossa_39: -1661622586
+      Spritesheet Pillolarossa_4: 347397968
+      Spritesheet Pillolarossa_40: 1639540426
+      Spritesheet Pillolarossa_41: -958592377
+      Spritesheet Pillolarossa_42: -1709728638
+      Spritesheet Pillolarossa_43: -625939489
+      Spritesheet Pillolarossa_44: -1686786085
+      Spritesheet Pillolarossa_45: 1330699937
+      Spritesheet Pillolarossa_46: -1092449986
+      Spritesheet Pillolarossa_47: 1895259964
+      Spritesheet Pillolarossa_48: -142086069
+      Spritesheet Pillolarossa_49: 1706364981
+      Spritesheet Pillolarossa_5: 708993959
+      Spritesheet Pillolarossa_50: -41412855
+      Spritesheet Pillolarossa_51: 1449292730
+      Spritesheet Pillolarossa_52: -98683640
+      Spritesheet Pillolarossa_53: -1345558173
+      Spritesheet Pillolarossa_54: 198086525
+      Spritesheet Pillolarossa_55: -558744293
+      Spritesheet Pillolarossa_56: -418488581
+      Spritesheet Pillolarossa_57: 1168951972
+      Spritesheet Pillolarossa_58: -1000487787
+      Spritesheet Pillolarossa_59: -728500185
+      Spritesheet Pillolarossa_6: 629447598
+      Spritesheet Pillolarossa_60: -1542186606
+      Spritesheet Pillolarossa_61: 2062303936
+      Spritesheet Pillolarossa_62: -320579926
+      Spritesheet Pillolarossa_63: -1400311771
+      Spritesheet Pillolarossa_64: -1388250200
+      Spritesheet Pillolarossa_65: -1243533370
+      Spritesheet Pillolarossa_66: -344698118
+      Spritesheet Pillolarossa_67: 461455385
+      Spritesheet Pillolarossa_68: -503171161
+      Spritesheet Pillolarossa_69: 1357229377
+      Spritesheet Pillolarossa_7: 970027121
+      Spritesheet Pillolarossa_70: -1652651595
+      Spritesheet Pillolarossa_71: -1440810080
+      Spritesheet Pillolarossa_72: -774802278
+      Spritesheet Pillolarossa_73: 1446301169
+      Spritesheet Pillolarossa_74: 1552912637
+      Spritesheet Pillolarossa_75: 1432394577
+      Spritesheet Pillolarossa_76: 2116527670
+      Spritesheet Pillolarossa_77: -126060931
+      Spritesheet Pillolarossa_78: -219823746
+      Spritesheet Pillolarossa_79: 1709830226
+      Spritesheet Pillolarossa_8: 2095703780
+      Spritesheet Pillolarossa_80: -549994442
+      Spritesheet Pillolarossa_81: -1087702799
+      Spritesheet Pillolarossa_82: -1454382537
+      Spritesheet Pillolarossa_83: -100838072
+      Spritesheet Pillolarossa_84: 281918476
+      Spritesheet Pillolarossa_85: -767377746
+      Spritesheet Pillolarossa_86: 1967924833
+      Spritesheet Pillolarossa_87: 345928844
+      Spritesheet Pillolarossa_88: 747010297
+      Spritesheet Pillolarossa_89: 680811987
+      Spritesheet Pillolarossa_9: 1140475526
+      Spritesheet Pillolarossa_90: 1847105012
+      Spritesheet Pillolarossa_91: 1592131578
+      Spritesheet Pillolarossa_92: 1447894369
+      Spritesheet Pillolarossa_93: 657385984
+      Spritesheet Pillolarossa_94: -1495830581
+      Spritesheet Pillolarossa_95: -364036040
+      Spritesheet Pillolarossa_96: 263934326
+      Spritesheet Pillolarossa_97: 1225243520
+      Spritesheet Pillolarossa_98: -612676906
+      Spritesheet Pillolarossa_99: 1532941939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
