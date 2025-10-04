@@ -100,10 +100,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 7599
-        width: 365
-        height: 395
+        x: 0
+        y: 7462
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -122,10 +122,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_1
       rect:
         serializedVersion: 2
-        x: 504
-        y: 7599
-        width: 365
-        height: 395
+        x: 449
+        y: 7462
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +144,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_2
       rect:
         serializedVersion: 2
-        x: 964
-        y: 7599
-        width: 360
-        height: 395
+        x: 898
+        y: 7462
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_3
       rect:
         serializedVersion: 2
-        x: 1455
-        y: 7599
-        width: 293
-        height: 384
+        x: 1347
+        y: 7462
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_4
       rect:
         serializedVersion: 2
-        x: 1906
-        y: 7599
-        width: 298
-        height: 384
+        x: 1796
+        y: 7462
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_5
       rect:
         serializedVersion: 2
-        x: 120
-        y: 7481
-        width: 23
-        height: 11
+        x: 0
+        y: 6888
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_6
       rect:
         serializedVersion: 2
-        x: 159
-        y: 7477
-        width: 16
-        height: 15
+        x: 449
+        y: 6888
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_7
       rect:
         serializedVersion: 2
-        x: 210
-        y: 7477
-        width: 31
-        height: 14
+        x: 898
+        y: 6888
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +276,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_8
       rect:
         serializedVersion: 2
-        x: 571
-        y: 7477
-        width: 23
-        height: 15
+        x: 1347
+        y: 6888
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,10 +298,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_9
       rect:
         serializedVersion: 2
-        x: 595
-        y: 7477
-        width: 11
-        height: 12
+        x: 1796
+        y: 6888
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +320,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_10
       rect:
         serializedVersion: 2
-        x: 610
-        y: 7477
-        width: 12
-        height: 15
+        x: 0
+        y: 6314
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +342,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_11
       rect:
         serializedVersion: 2
-        x: 657
-        y: 7477
-        width: 32
-        height: 15
+        x: 449
+        y: 6314
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,10 +364,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_12
       rect:
         serializedVersion: 2
-        x: 1466
-        y: 7477
-        width: 23
-        height: 15
+        x: 898
+        y: 6314
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_13
       rect:
         serializedVersion: 2
-        x: 1490
-        y: 7477
-        width: 31
-        height: 15
+        x: 1347
+        y: 6314
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,10 +408,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_14
       rect:
         serializedVersion: 2
-        x: 1556
-        y: 7477
-        width: 32
-        height: 15
+        x: 1796
+        y: 6314
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,10 +430,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_15
       rect:
         serializedVersion: 2
-        x: 1917
-        y: 7477
-        width: 35
-        height: 15
+        x: 0
+        y: 5740
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +452,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_16
       rect:
         serializedVersion: 2
-        x: 1957
-        y: 7477
-        width: 15
-        height: 15
+        x: 449
+        y: 5740
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -474,10 +474,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_17
       rect:
         serializedVersion: 2
-        x: 2004
-        y: 7477
-        width: 35
-        height: 15
+        x: 898
+        y: 5740
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,10 +496,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_18
       rect:
         serializedVersion: 2
-        x: 57
-        y: 7022
-        width: 365
-        height: 388
+        x: 1347
+        y: 5740
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,10 +518,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_19
       rect:
         serializedVersion: 2
-        x: 500
-        y: 7026
-        width: 373
-        height: 388
+        x: 1796
+        y: 5740
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +540,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_20
       rect:
         serializedVersion: 2
-        x: 948
-        y: 7022
-        width: 369
-        height: 392
+        x: 0
+        y: 5166
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,10 +562,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_21
       rect:
         serializedVersion: 2
-        x: 1395
-        y: 7026
-        width: 373
-        height: 392
+        x: 449
+        y: 5166
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,10 +584,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_22
       rect:
         serializedVersion: 2
-        x: 1843
-        y: 7022
-        width: 369
-        height: 396
+        x: 898
+        y: 5166
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,10 +606,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_23
       rect:
         serializedVersion: 2
-        x: 124
-        y: 6904
-        width: 11
-        height: 12
+        x: 1347
+        y: 5166
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,10 +628,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_24
       rect:
         serializedVersion: 2
-        x: 159
-        y: 6904
-        width: 15
-        height: 12
+        x: 1796
+        y: 5166
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,10 +650,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_25
       rect:
         serializedVersion: 2
-        x: 575
-        y: 6904
-        width: 11
-        height: 12
+        x: 0
+        y: 4592
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,10 +672,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_26
       rect:
         serializedVersion: 2
-        x: 610
-        y: 6904
-        width: 12
-        height: 12
+        x: 449
+        y: 4592
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -694,10 +694,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_27
       rect:
         serializedVersion: 2
-        x: 1019
-        y: 6904
-        width: 38
-        height: 12
+        x: 898
+        y: 4592
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -716,10 +716,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_28
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 6904
-        width: 15
-        height: 12
+        x: 1347
+        y: 4592
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -738,10 +738,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_29
       rect:
         serializedVersion: 2
-        x: 1105
-        y: 6904
-        width: 35
-        height: 12
+        x: 1796
+        y: 4592
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -760,10 +760,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_30
       rect:
         serializedVersion: 2
-        x: 1466
-        y: 6904
-        width: 23
-        height: 12
+        x: 0
+        y: 4018
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -782,10 +782,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_31
       rect:
         serializedVersion: 2
-        x: 1494
-        y: 6904
-        width: 10
-        height: 11
+        x: 449
+        y: 4018
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,10 +804,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_32
       rect:
         serializedVersion: 2
-        x: 1506
-        y: 6904
-        width: 15
-        height: 12
+        x: 898
+        y: 4018
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -826,10 +826,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_33
       rect:
         serializedVersion: 2
-        x: 1553
-        y: 6904
-        width: 35
-        height: 12
+        x: 1347
+        y: 4018
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_34
       rect:
         serializedVersion: 2
-        x: 1917
-        y: 6904
-        width: 36
-        height: 12
+        x: 1796
+        y: 4018
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -870,10 +870,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_35
       rect:
         serializedVersion: 2
-        x: 1957
-        y: 6904
-        width: 15
-        height: 12
+        x: 0
+        y: 3444
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -892,10 +892,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_36
       rect:
         serializedVersion: 2
-        x: 2000
-        y: 6904
-        width: 39
-        height: 12
+        x: 449
+        y: 3444
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -914,10 +914,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_37
       rect:
         serializedVersion: 2
-        x: 49
-        y: 6449
-        width: 369
-        height: 396
+        x: 898
+        y: 3444
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -936,10 +936,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_38
       rect:
         serializedVersion: 2
-        x: 500
-        y: 6449
-        width: 365
-        height: 396
+        x: 1347
+        y: 3444
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -958,10 +958,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_39
       rect:
         serializedVersion: 2
-        x: 948
-        y: 6449
-        width: 365
-        height: 396
+        x: 1796
+        y: 3444
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -980,10 +980,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_40
       rect:
         serializedVersion: 2
-        x: 1399
-        y: 6449
-        width: 365
-        height: 396
+        x: 0
+        y: 2870
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1002,10 +1002,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_41
       rect:
         serializedVersion: 2
-        x: 1847
-        y: 6461
-        width: 365
-        height: 392
+        x: 449
+        y: 2870
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1024,10 +1024,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_42
       rect:
         serializedVersion: 2
-        x: 120
-        y: 6331
-        width: 35
-        height: 12
+        x: 898
+        y: 2870
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1046,10 +1046,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_43
       rect:
         serializedVersion: 2
-        x: 159
-        y: 6331
-        width: 16
-        height: 12
+        x: 1347
+        y: 2870
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1068,10 +1068,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_44
       rect:
         serializedVersion: 2
-        x: 206
-        y: 6331
-        width: 35
-        height: 12
+        x: 1796
+        y: 2870
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1090,10 +1090,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_45
       rect:
         serializedVersion: 2
-        x: 571
-        y: 6331
-        width: 35
-        height: 12
+        x: 0
+        y: 2296
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1112,10 +1112,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_46
       rect:
         serializedVersion: 2
-        x: 610
-        y: 6331
-        width: 12
-        height: 12
+        x: 449
+        y: 2296
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1134,10 +1134,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_47
       rect:
         serializedVersion: 2
-        x: 657
-        y: 6331
-        width: 32
-        height: 12
+        x: 898
+        y: 2296
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1156,10 +1156,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_48
       rect:
         serializedVersion: 2
-        x: 1019
-        y: 6331
-        width: 23
-        height: 12
+        x: 1347
+        y: 2296
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1178,10 +1178,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_49
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 6331
-        width: 14
-        height: 12
+        x: 1796
+        y: 2296
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1200,10 +1200,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_50
       rect:
         serializedVersion: 2
-        x: 1105
-        y: 6331
-        width: 35
-        height: 12
+        x: 0
+        y: 1722
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1222,10 +1222,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_51
       rect:
         serializedVersion: 2
-        x: 1470
-        y: 6331
-        width: 19
-        height: 12
+        x: 449
+        y: 1722
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1244,10 +1244,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_52
       rect:
         serializedVersion: 2
-        x: 1494
-        y: 6331
-        width: 10
-        height: 11
+        x: 898
+        y: 1722
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,10 +1266,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_53
       rect:
         serializedVersion: 2
-        x: 1506
-        y: 6331
-        width: 15
-        height: 12
+        x: 1347
+        y: 1722
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1288,10 +1288,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_54
       rect:
         serializedVersion: 2
-        x: 1552
-        y: 6331
-        width: 36
-        height: 12
+        x: 1796
+        y: 1722
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_55
       rect:
         serializedVersion: 2
-        x: 57
-        y: 5892
-        width: 357
-        height: 396
+        x: 0
+        y: 1148
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1332,10 +1332,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_56
       rect:
         serializedVersion: 2
-        x: 512
-        y: 5907
-        width: 342
-        height: 393
+        x: 449
+        y: 1148
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1354,10 +1354,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_57
       rect:
         serializedVersion: 2
-        x: 964
-        y: 5915
-        width: 325
-        height: 393
+        x: 898
+        y: 1148
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1376,10 +1376,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_58
       rect:
         serializedVersion: 2
-        x: 1391
-        y: 5935
-        width: 306
-        height: 369
+        x: 1347
+        y: 1148
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1398,10 +1398,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_59
       rect:
         serializedVersion: 2
-        x: 1831
-        y: 5943
-        width: 326
-        height: 361
+        x: 1796
+        y: 1148
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1420,10 +1420,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_60
       rect:
         serializedVersion: 2
-        x: 100
-        y: 5756
-        width: 43
-        height: 14
+        x: 0
+        y: 574
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1442,10 +1442,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_61
       rect:
         serializedVersion: 2
-        x: 144
-        y: 5755
-        width: 11
-        height: 11
+        x: 449
+        y: 574
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1464,10 +1464,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_62
       rect:
         serializedVersion: 2
-        x: 160
-        y: 5758
-        width: 14
-        height: 11
+        x: 898
+        y: 574
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1486,10 +1486,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_63
       rect:
         serializedVersion: 2
-        x: 222
-        y: 5758
-        width: 11
-        height: 12
+        x: 1347
+        y: 574
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1508,10 +1508,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_64
       rect:
         serializedVersion: 2
-        x: 575
-        y: 5758
-        width: 12
-        height: 12
+        x: 1796
+        y: 574
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1530,10 +1530,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_65
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 5759
-        width: 11
-        height: 10
+        x: 0
+        y: 0
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1552,10 +1552,10 @@ TextureImporter:
       name: Spritesheet Pillolablu_66
       rect:
         serializedVersion: 2
-        x: 1420
-        y: 5758
-        width: 22
-        height: 12
+        x: 449
+        y: 0
+        width: 449
+        height: 574
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1566,1282 +1566,6 @@ TextureImporter:
       bones: []
       spriteID: e5cd45e186237a244b03ac1399c51287
       internalID: 904964963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_67
-      rect:
-        serializedVersion: 2
-        x: 1870
-        y: 5758
-        width: 20
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8dad92c8bcbf40e49b47785656e24c0a
-      internalID: -528076365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_68
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 5389
-        width: 345
-        height: 342
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44da8d1cf9afdc940a13548c4e0c771c
-      internalID: -55155993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_69
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 5397
-        width: 353
-        height: 334
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5dd79205d2b71c41a89ed24682392ff
-      internalID: 756683649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_70
-      rect:
-        serializedVersion: 2
-        x: 921
-        y: 5405
-        width: 360
-        height: 326
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b389adecde278594383fac2ddc25dceb
-      internalID: 1173006232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_71
-      rect:
-        serializedVersion: 2
-        x: 1376
-        y: 5409
-        width: 369
-        height: 318
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24c248ec49ceb314ab08a1542591f881
-      internalID: -824708082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_72
-      rect:
-        serializedVersion: 2
-        x: 1831
-        y: 5413
-        width: 369
-        height: 310
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af7384ebacc4c9c4da3eca4fa1e6d212
-      internalID: 1447660971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_73
-      rect:
-        serializedVersion: 2
-        x: 968
-        y: 5185
-        width: 31
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e1f33a2dbe5feb438b1ab7ce93b1b5d
-      internalID: -2075444486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_74
-      rect:
-        serializedVersion: 2
-        x: 1427
-        y: 5185
-        width: 15
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5050e9ca70a031a44a895404f9f04e97
-      internalID: -1254025411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_75
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 4828
-        width: 365
-        height: 310
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3241b348e88ab4e4a93d7b9e16eb3efe
-      internalID: 1731964034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_76
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 4809
-        width: 380
-        height: 333
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 39faf9a3e41d37a45a90f9368ee8cf38
-      internalID: -1257558616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_77
-      rect:
-        serializedVersion: 2
-        x: 936
-        y: 4773
-        width: 377
-        height: 373
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 894611c825524dd449007e7bd4b240ce
-      internalID: -720557645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_78
-      rect:
-        serializedVersion: 2
-        x: 1399
-        y: 4754
-        width: 365
-        height: 392
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 776c67ffe422c7e498f30b24014b1b0c
-      internalID: 536021624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_79
-      rect:
-        serializedVersion: 2
-        x: 1851
-        y: 4734
-        width: 368
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54f1ec67c7e17d24f877e994c4091951
-      internalID: -205917422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_80
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 4149
-        width: 381
-        height: 405
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b966263663b1fe9439a61af13def6f3d
-      internalID: 1459593053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_81
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 4134
-        width: 381
-        height: 396
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eab0ffcd3dcbf244aa15fb184b610187
-      internalID: 2013836635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_82
-      rect:
-        serializedVersion: 2
-        x: 952
-        y: 4122
-        width: 377
-        height: 396
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd5dd57e3ac53fe4f8152b2b3ff11e7c
-      internalID: 328246319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_83
-      rect:
-        serializedVersion: 2
-        x: 1403
-        y: 4110
-        width: 377
-        height: 393
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 417aa9488e28ae34dad4d6a19e8863ee
-      internalID: -658748044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_84
-      rect:
-        serializedVersion: 2
-        x: 1851
-        y: 4083
-        width: 376
-        height: 396
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a96882a13fc5ee444af89c89f15db89c
-      internalID: -2043177622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_85
-      rect:
-        serializedVersion: 2
-        x: 571
-        y: 4032
-        width: 20
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 652fc4d08f39cb447af6d6cfb3e3342d
-      internalID: 29503374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_86
-      rect:
-        serializedVersion: 2
-        x: 610
-        y: 4036
-        width: 32
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c9cabd1f6e633a42b56b7a1bf4e4e3f
-      internalID: -634421646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_87
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 4032
-        width: 42
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a725ff3e4074ec43ae08589718b1539
-      internalID: 1927235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_88
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 3490
-        width: 377
-        height: 397
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e35f78474c7de61498f7a326c5febb88
-      internalID: 153469067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_89
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 3451
-        width: 338
-        height: 392
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99d7bdeaaaee27c418e4a25829711f44
-      internalID: 751685416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_90
-      rect:
-        serializedVersion: 2
-        x: 967
-        y: 3448
-        width: 291
-        height: 364
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac6ce382f54a3ba47a46e14906faf169
-      internalID: -55979098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_91
-      rect:
-        serializedVersion: 2
-        x: 1407
-        y: 3467
-        width: 372
-        height: 337
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d7f606ec11add23489fbc0e2b4a571a5
-      internalID: 2053918139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_92
-      rect:
-        serializedVersion: 2
-        x: 1831
-        y: 3494
-        width: 361
-        height: 302
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ebe7b875443ce84fb4ef6201a2c08f5
-      internalID: -803762454
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_93
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 2933
-        width: 333
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b9209871aede8f40888da44a62d75f3
-      internalID: 1790716199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_94
-      rect:
-        serializedVersion: 2
-        x: 508
-        y: 2930
-        width: 357
-        height: 289
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f950bf7e211233e419b7fbf288386baf
-      internalID: -884905628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_95
-      rect:
-        serializedVersion: 2
-        x: 952
-        y: 2921
-        width: 357
-        height: 291
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f32c50f70b06ddd469de1a4c18b33b9f
-      internalID: -944506244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_96
-      rect:
-        serializedVersion: 2
-        x: 1399
-        y: 2894
-        width: 357
-        height: 310
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5b634cc0461789488a10d21d96233e7
-      internalID: -705404588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_97
-      rect:
-        serializedVersion: 2
-        x: 1854
-        y: 2874
-        width: 354
-        height: 317
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fb1a1c12d82f2c428e613565c4b6b37
-      internalID: 629029961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_98
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 2301
-        width: 326
-        height: 271
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f715e4d260daf9740b5cf36c2c4cd0cf
-      internalID: 1344178703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_99
-      rect:
-        serializedVersion: 2
-        x: 508
-        y: 2301
-        width: 318
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80b3ae4c3593aa041b95a5a6319dae30
-      internalID: 588616293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_100
-      rect:
-        serializedVersion: 2
-        x: 964
-        y: 2301
-        width: 302
-        height: 247
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a15019fa0cfe6a499e9af379fb721aa
-      internalID: 1621438979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_101
-      rect:
-        serializedVersion: 2
-        x: 1415
-        y: 2301
-        width: 310
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d7551b74cec57904b96d344b946c21d6
-      internalID: -1457042453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_102
-      rect:
-        serializedVersion: 2
-        x: 1870
-        y: 2301
-        width: 365
-        height: 263
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b7ca60e0fb35214bb67ed4260f6b8ec
-      internalID: -685828346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_103
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 1736
-        width: 373
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2268b99d97b489e4287844d5cc34c0e0
-      internalID: -603212563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_104
-      rect:
-        serializedVersion: 2
-        x: 497
-        y: 1799
-        width: 392
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1c207263ca1af4438ac468bf256d27a
-      internalID: 1450539608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_105
-      rect:
-        serializedVersion: 2
-        x: 940
-        y: 1815
-        width: 392
-        height: 172
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e95063727f64e94ba6e1628e77bca67
-      internalID: 1410567615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_106
-      rect:
-        serializedVersion: 2
-        x: 1391
-        y: 1827
-        width: 381
-        height: 164
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7208aae1df8fb934689fa6f0509de872
-      internalID: 1799436461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_107
-      rect:
-        serializedVersion: 2
-        x: 1854
-        y: 1823
-        width: 350
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9df47d94ded9332458ec80e086025f62
-      internalID: 1200644737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_108
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 1242
-        width: 329
-        height: 235
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af980accef707114ab95729bf77cf6f7
-      internalID: -1566385071
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_109
-      rect:
-        serializedVersion: 2
-        x: 516
-        y: 1167
-        width: 342
-        height: 310
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6dfcbedd75891140a62b35b83b27efa
-      internalID: 1373598449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_110
-      rect:
-        serializedVersion: 2
-        x: 936
-        y: 1160
-        width: 396
-        height: 306
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a76e34d5f4ad020499f725270277ab03
-      internalID: 1470383968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_111
-      rect:
-        serializedVersion: 2
-        x: 1395
-        y: 1156
-        width: 334
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af6d3ea7dd4dd404c8d03e27c8c14ccd
-      internalID: 1204945903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_112
-      rect:
-        serializedVersion: 2
-        x: 1858
-        y: 1152
-        width: 314
-        height: 270
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 483a44a510f5dea4293e093d7c804cf0
-      internalID: -1777636992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_113
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 579
-        width: 298
-        height: 270
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aabc32284e462534b9489e6a13819c96
-      internalID: -299273568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_114
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 579
-        width: 282
-        height: 290
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 530aba47b2e64db45a3c8310ff08db84
-      internalID: 835185396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_115
-      rect:
-        serializedVersion: 2
-        x: 995
-        y: 579
-        width: 239
-        height: 349
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 646e74bc6ba4c0447add3feb905a7034
-      internalID: 454452986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_116
-      rect:
-        serializedVersion: 2
-        x: 1395
-        y: 579
-        width: 361
-        height: 369
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8ddf7cf42ca29f46b78ddaf2ca32e47
-      internalID: 1831129940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_117
-      rect:
-        serializedVersion: 2
-        x: 1855
-        y: 579
-        width: 349
-        height: 412
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce58fdc455f4eb24fa95c1a73176da8b
-      internalID: 368354657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_118
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 88
-        width: 365
-        height: 393
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64b9543080c3a3642ad211df93f7d183
-      internalID: 1439681861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_119
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 135
-        width: 365
-        height: 397
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23216825089cd6f4ca3e235f60fc2828
-      internalID: -276649392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_120
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 10
-        width: 145
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 32b6921823e40a24f96c3039d748419c
-      internalID: -839651477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_121
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 14
-        width: 39
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93be885fb4fb6d942b139d131905e0c0
-      internalID: 1247454981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_122
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 15
-        width: 11
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f96372c1bdf6add4c92d542751cb58fb
-      internalID: -688865103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_123
-      rect:
-        serializedVersion: 2
-        x: 610
-        y: 18
-        width: 16
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4132002f455446c4caf6b3be5894a290
-      internalID: 1962972681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spritesheet Pillolablu_124
-      rect:
-        serializedVersion: 2
-        x: 654
-        y: 18
-        width: 31
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7e9dbc27f0f9e641b26880fa7c63b8b
-      internalID: -689386437
       vertices: []
       indices: 
       edges: []
@@ -2863,33 +1587,8 @@ TextureImporter:
       Spritesheet Pillolablu_0: -865398289
       Spritesheet Pillolablu_1: 1560954075
       Spritesheet Pillolablu_10: 1825013889
-      Spritesheet Pillolablu_100: 1621438979
-      Spritesheet Pillolablu_101: -1457042453
-      Spritesheet Pillolablu_102: -685828346
-      Spritesheet Pillolablu_103: -603212563
-      Spritesheet Pillolablu_104: 1450539608
-      Spritesheet Pillolablu_105: 1410567615
-      Spritesheet Pillolablu_106: 1799436461
-      Spritesheet Pillolablu_107: 1200644737
-      Spritesheet Pillolablu_108: -1566385071
-      Spritesheet Pillolablu_109: 1373598449
       Spritesheet Pillolablu_11: -802745749
-      Spritesheet Pillolablu_110: 1470383968
-      Spritesheet Pillolablu_111: 1204945903
-      Spritesheet Pillolablu_112: -1777636992
-      Spritesheet Pillolablu_113: -299273568
-      Spritesheet Pillolablu_114: 835185396
-      Spritesheet Pillolablu_115: 454452986
-      Spritesheet Pillolablu_116: 1831129940
-      Spritesheet Pillolablu_117: 368354657
-      Spritesheet Pillolablu_118: 1439681861
-      Spritesheet Pillolablu_119: -276649392
       Spritesheet Pillolablu_12: 845154714
-      Spritesheet Pillolablu_120: -839651477
-      Spritesheet Pillolablu_121: 1247454981
-      Spritesheet Pillolablu_122: -688865103
-      Spritesheet Pillolablu_123: 1962972681
-      Spritesheet Pillolablu_124: -689386437
       Spritesheet Pillolablu_13: -1624277926
       Spritesheet Pillolablu_14: -1490068455
       Spritesheet Pillolablu_15: 218408004
@@ -2949,42 +1648,9 @@ TextureImporter:
       Spritesheet Pillolablu_64: -610285345
       Spritesheet Pillolablu_65: -1011508722
       Spritesheet Pillolablu_66: 904964963
-      Spritesheet Pillolablu_67: -528076365
-      Spritesheet Pillolablu_68: -55155993
-      Spritesheet Pillolablu_69: 756683649
       Spritesheet Pillolablu_7: -327711032
-      Spritesheet Pillolablu_70: 1173006232
-      Spritesheet Pillolablu_71: -824708082
-      Spritesheet Pillolablu_72: 1447660971
-      Spritesheet Pillolablu_73: -2075444486
-      Spritesheet Pillolablu_74: -1254025411
-      Spritesheet Pillolablu_75: 1731964034
-      Spritesheet Pillolablu_76: -1257558616
-      Spritesheet Pillolablu_77: -720557645
-      Spritesheet Pillolablu_78: 536021624
-      Spritesheet Pillolablu_79: -205917422
       Spritesheet Pillolablu_8: -4613299
-      Spritesheet Pillolablu_80: 1459593053
-      Spritesheet Pillolablu_81: 2013836635
-      Spritesheet Pillolablu_82: 328246319
-      Spritesheet Pillolablu_83: -658748044
-      Spritesheet Pillolablu_84: -2043177622
-      Spritesheet Pillolablu_85: 29503374
-      Spritesheet Pillolablu_86: -634421646
-      Spritesheet Pillolablu_87: 1927235
-      Spritesheet Pillolablu_88: 153469067
-      Spritesheet Pillolablu_89: 751685416
       Spritesheet Pillolablu_9: 755618462
-      Spritesheet Pillolablu_90: -55979098
-      Spritesheet Pillolablu_91: 2053918139
-      Spritesheet Pillolablu_92: -803762454
-      Spritesheet Pillolablu_93: 1790716199
-      Spritesheet Pillolablu_94: -884905628
-      Spritesheet Pillolablu_95: -944506244
-      Spritesheet Pillolablu_96: -705404588
-      Spritesheet Pillolablu_97: 629029961
-      Spritesheet Pillolablu_98: 1344178703
-      Spritesheet Pillolablu_99: 588616293
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

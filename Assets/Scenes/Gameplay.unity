@@ -897,7 +897,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Audio
       Videoplayer","value":{"$content":28,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
       UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Generic
-      Button Counter","value":{"$content":1.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      Button Counter","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Final
       F","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Screen
@@ -907,6 +907,8 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Audio
       Progression","value":{"$content":30,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.AudioSource,
       UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Zanzacottero
+      Counter","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Pillola
       Counter","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
@@ -1638,9 +1640,17 @@ MonoBehaviour:
       Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"5
       Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"5.1
+      Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"6
       Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"5.1
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"7
+      Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"8
+      Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"9
+      Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"10
       Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
@@ -1807,67 +1817,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 437524416}
   m_CullTransparentMesh: 1
---- !u!1001 &516070749
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_Name
-      value: Zanzacottero (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 762
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6259
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
 --- !u!1 &546426439
 GameObject:
   m_ObjectHideFlags: 0
@@ -2806,67 +2755,6 @@ Transform:
   - {fileID: 330585546}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &929918680
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_Name
-      value: Zanzacottero
-      objectReference: {fileID: 0}
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6475
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
 --- !u!1 &945115880
 GameObject:
   m_ObjectHideFlags: 0
@@ -5591,67 +5479,6 @@ RectTransform:
   m_AnchoredPosition: {x: 13.78, y: 429.75}
   m_SizeDelta: {x: 466, y: 390}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1001 &1711081298
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_Name
-      value: Zanzacottero (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -550
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 442
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6259
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
 --- !u!1 &1716039980
 GameObject:
   m_ObjectHideFlags: 0
@@ -7172,7 +6999,4 @@ SceneRoots:
   - {fileID: 436594419}
   - {fileID: 1353559381}
   - {fileID: 107493426}
-  - {fileID: 929918680}
-  - {fileID: 516070749}
-  - {fileID: 1711081298}
   - {fileID: 794092693}
