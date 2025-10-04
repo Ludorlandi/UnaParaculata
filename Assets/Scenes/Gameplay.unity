@@ -577,7 +577,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 847c93049cea1284b8ae0514552d7a05, type: 3}
   m_Resource: {fileID: 8300000, guid: 847c93049cea1284b8ae0514552d7a05, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.122
+  m_Volume: 0.078
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1623,8 +1623,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Wait","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"1
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"1
+      Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"2
       Completed","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
@@ -4817,7 +4818,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.409
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -6960,63 +6961,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2106107501}
   m_CullTransparentMesh: 1
---- !u!1001 &111663128513445604
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4720571883347614074, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_Name
-      value: Zanzacottero
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 5910
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7449297439462588635, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 187d814cba3fa7546981c85a217c7a5b, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -7031,4 +6975,3 @@ SceneRoots:
   - {fileID: 1353559381}
   - {fileID: 107493426}
   - {fileID: 794092693}
-  - {fileID: 111663128513445604}
